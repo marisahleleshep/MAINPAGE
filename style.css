@@ -1,0 +1,58 @@
+@media (min-width: 600px) and (max-width: 768px) {
+}
+
+#Main{
+    margin-left: 40%;
+    font-size: 40px;
+}
+.con{
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+.but{
+    margin-left: 20%;
+    background-color: yellow;
+}
+#mom{
+    margin-left: 20%;
+}
+
+.information{
+    margin-left: 60%;
+    margin-top: -15%;
+    border: solid;
+    
+}
+#ra1{
+    /* color: yellow; */
+}
+#cat{
+    /* margin-left: 20%; */
+}
+.many{
+    justify-content: space-between;
+    display: flex;
+    background-color: blue;
+    
+}
+/* .work{
+    display: flex;
+    margin-left: 10%;
+    justify-content: space-between;
+} */
+.any{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+#pic{
+    width: 50%;
+    height: 200%;
+}
+
+.bad{
+    width: 10%;
+    height: 20%;
+}
